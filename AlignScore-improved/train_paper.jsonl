@@ -1,0 +1,1000 @@
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED", "similarity_score": 0.9}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "Python is a programming language.", "text_b": "Python is used for data analysis.", "label": "ALIGNED", "similarity_score": 0.6}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The temperature is 30°C today.", "text_b": "It's freezing cold outside today.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT", "similarity_score": 0.1}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED", "similarity_score": 0.9}
